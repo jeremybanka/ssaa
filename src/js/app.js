@@ -1,7 +1,7 @@
 // STYLE
-import '../styles/core.scss'
-import '../styles/font-face.scss'
+import "../styles/core.scss"
+import "../styles/font-face.scss"
 // LOGIC
-import double from './core'
+import double from "./core"
 
 double(1)
