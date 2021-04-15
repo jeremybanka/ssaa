@@ -1,4 +1,4 @@
-import double from '../src/js/core'
+import double from "../src/js/core"
 
 describe(`double`, () => {
   it(`doubles a number`, () => {
