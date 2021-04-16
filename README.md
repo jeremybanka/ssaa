@@ -22,7 +22,7 @@ Includes webpack, jest, and eslint preconfigured. Just get to work!
 
 #### First Things First
 
-- Clone this repo: `$ git clone https://github.com/jeremybanka/pizza-parlor`
+- Clone this repo: `$ git clone https://github.com/jeremybanka/ssaa`
 - Get things installed: `$ npm i`
 - Get things built: `$ npm run start`
 - This should prompt your browser to open the project on 8080. It's actually pointed at the dist folder, and will update live.
